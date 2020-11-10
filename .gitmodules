@@ -1,0 +1,4 @@
+[submodule "project-control"]
+	path = project-control
+	url = git@git.vauxoo.com:jarsa/project-control.git
+	branch = 12.0
